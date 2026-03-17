@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "cocinar",
+    "description": "Cocinar temprano mañana",
+    "status": "InProgress",
+    "create": "20/10/2025 07:05 PM",
+    "update": "20/10/2025 07:07 PM"
+  },
+  {
+    "id": 2,
+    "name": "parque",
+    "description": "Ir al parque el domingo",
+    "status": "Completed",
+    "create": "20/10/2025 07:06 PM",
+    "update": "20/10/2025 07:07 PM"
+  },
+  {
+    "id": 4,
+    "name": "cine",
+    "description": "Salir al cine con amigos",
+    "status": "Pending",
+    "create": "20/10/2025 07:06 PM",
+    "update": ""
+  }
+]
